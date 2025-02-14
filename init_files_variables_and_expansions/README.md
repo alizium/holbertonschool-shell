@@ -1,0 +1,1 @@
+Comment créer une variable ?
